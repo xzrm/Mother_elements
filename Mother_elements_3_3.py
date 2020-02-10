@@ -4,7 +4,7 @@ import itertools
 import pprint
 
 
-PROJECT_PATH = r'E:\user\kraczlam5898\Rozenoordbrug\Model\Models for NLA\Fase 4'
+PROJECT_PATH = r'your_project_path'
 
 def pure_windows_path(path):
     return path.replace('\\', '\\\\')
